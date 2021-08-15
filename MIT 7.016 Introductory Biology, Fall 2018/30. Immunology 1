@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=FpXIGTFD8Qs
+
 Immunity: resistance to disease based on prior exposure
 
 Vaccines (first time found cowpox -> smallpox)
@@ -57,4 +59,21 @@ But this means that we need to have lots of different B-Cells (one for each anti
 This brings us to diversity.
 
 2) Diversity:
--- How is it  generated? 
+-- How is it  generated?  We have only 30K Ab genes, but millions of B cells.
+Somatic Recombination generates diversity of molecules with unique specificity.
+We have a single heavy chain gene, and two light chain genes; but they are 
+composed of multiple gene segments, which are shuffled to generate this diversity.
+-- The different blocks: V (variable region), D (Diverse region), J (joining region).
+Light chain: V and J
+Heavy chain: V, D, J
+-- This shufflig is mediated by recombination at heavy and light chain genes. As opposed
+to recombination during meiosis, which happens between homologous chromosomes, this
+brings together and deletes sequences in the same chromosome. Process is known
+as VDJ recombination, and it is lymphocyte-specific. 
+-- Nucleotides can be inserted or deleted during the shuffling (i.e. during the
+VDJ recombination). This imprecision is responsible for increasing diversity in addition
+to shuffling. This change has to be a multiple of 3.
+-- (T-Cell only) As a consequence of activating the T-cell reponse, there is sth known as somatic
+hypermutation, which further increases the diversity. (aka affinity naturation)
+-- Until this recombination happens, the responsible genes are not expressed.
+-- Allelic exclusion makes 
